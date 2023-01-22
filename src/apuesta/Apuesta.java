@@ -2,7 +2,7 @@ package apuesta;
 /**
  * 
  * @author Juanma Sánchez
- *
+ * Clase para una apuesta
  */
 public class Apuesta {
 	/**
